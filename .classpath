@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="JarFiles/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="JarFiles/cucumber-core-1.2.4.jar"/>
+	<classpathentry kind="lib" path="JarFiles/cucumber-java-1.2.4.jar"/>
+	<classpathentry kind="lib" path="JarFiles/cucumber-junit-1.2.4.jar"/>
+	<classpathentry kind="lib" path="JarFiles/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="JarFiles/cucumber-reporting-2.3.0.jar"/>
+	<classpathentry kind="lib" path="JarFiles/curvesapi-1.03.jar"/>
+	<classpathentry kind="lib" path="JarFiles/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="JarFiles/gherkin-4.0.0.jar"/>
+	<classpathentry kind="lib" path="JarFiles/javax.mail.jar"/>
+	<classpathentry kind="lib" path="JarFiles/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="JarFiles/mockito-all-1.9.1-20110911.jar"/>
+	<classpathentry kind="lib" path="JarFiles/poi-3.15-beta1.jar"/>
+	<classpathentry kind="lib" path="JarFiles/poi-examples-3.15-beta1.jar"/>
+	<classpathentry kind="lib" path="JarFiles/poi-excelant-3.15-beta1.jar"/>
+	<classpathentry kind="lib" path="JarFiles/poi-ooxml-3.15-beta1.jar"/>
+	<classpathentry kind="lib" path="JarFiles/poi-ooxml-schemas-3.15-beta1.jar"/>
+	<classpathentry kind="lib" path="JarFiles/poi-scratchpad-3.15-beta1.jar"/>
+	<classpathentry kind="lib" path="JarFiles/selenium-java-2.53.1-srcs.jar"/>
+	<classpathentry kind="lib" path="JarFiles/selenium-java-2.53.1.jar"/>
+	<classpathentry kind="lib" path="JarFiles/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="JarFiles/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
