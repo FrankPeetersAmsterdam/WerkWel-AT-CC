@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="src" path="src/test/resources"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
 	<classpathentry kind="lib" path="JarFiles/cobertura-2.1.1.jar"/>
-	<classpathentry kind="lib" path="JarFiles/cucumber-core-1.2.4.jar"/>
+	<classpathentry kind="lib" path="JarFiles/cucumber-core-1.2.4.jar" sourcepath="C:/Users/frank/.m2/repository/info/cukes/cucumber-core/1.2.4/cucumber-core-1.2.4-sources.jar"/>
 	<classpathentry kind="lib" path="JarFiles/cucumber-java-1.2.4.jar"/>
 	<classpathentry kind="lib" path="JarFiles/cucumber-junit-1.2.4.jar"/>
 	<classpathentry kind="lib" path="JarFiles/cucumber-jvm-deps-1.0.5.jar"/>
